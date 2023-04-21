@@ -1,0 +1,14 @@
+11:16:56.788 [main] TRACE Log4jDemo.LoggerDemoOne - from Trace
+11:16:56.794 [main] DEBUG Log4jDemo.LoggerDemoOne - Debugging the program, From debug
+11:16:56.795 [main] WARN  Log4jDemo.LoggerDemoOne - From warn
+11:16:56.795 [main] FATAL Log4jDemo.LoggerDemoOne - From fatal
+11:16:56.795 [main] TRACE Log4jDemo.LoggerDemoOne - from Trace
+11:17:12.499 [main] INFO  Log4jDemo.LoggerDemoOne - operation successful, From info
+11:17:12.503 [main] ERROR Log4jDemo.LoggerDemoOne - DB connection failed, From error
+11:17:12.503 [main] ERROR Log4jDemo.LoggerDemoOne - DB connection failed, From error
+11:17:12.504 [main] DEBUG Log4jDemo.LoggerDemoOne - Debugging the program, From debug
+11:17:12.504 [main] WARN  Log4jDemo.LoggerDemoOne - From warn
+11:17:12.506 [main] FATAL Log4jDemo.LoggerDemoOne - From fatal
+11:17:12.506 [main] TRACE Log4jDemo.LoggerDemoOne - from Trace
+11:17:12.506 [main] DEBUG Log4jDemo.LoggerDemoOne - Debugging the program, From debug
+11:17:12.507 [main] WARN  Log4jDemo.LoggerDemoOne - From warn

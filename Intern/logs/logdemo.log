@@ -1,0 +1,2 @@
+09:42:27.606 [main] ERROR Log4j.LoggerDemo - DB connection failed, From error
+09:42:27.622 [main] FATAL Log4j.LoggerDemo - From fatal
